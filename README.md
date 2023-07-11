@@ -2,7 +2,7 @@
 https://www.planetminecraft.com/project/arkhanas-vientos-de-pulsar-1-8-#
 # TRAILER.-
 https://youtu.be/PVJ_IfutXWU
-
+# INFORMACION.-
 
 "Arkhanas: El monstruo de Pulsar" como se conocía en la versión beta del mapa solo era un titulo beta de el desarrollo, a mitad de el "retorno" para terminar mi proyecto se cambiaron bastantes cosas dentro de el mapa en la versión beta, sin duda un gran cambio que se noto fue el titulo y algunos factores internos. La competencia en el mapmaking hoy en día se debe a los avances de codificación en cuanto al desarrollo que ha estado actualizando al juego y las posibilidades de que el mapmaker tenga a la mano para crear un proyecto maestro dentro de el juego.
 
